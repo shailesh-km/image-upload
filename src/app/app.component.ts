@@ -8,7 +8,7 @@ import { AngularFireStorage } from '@angular/fire/compat/storage';
 })
 export class AppComponent {
 
-  path: String | undefined;
+  path: String | undefined; 
 
   constructor(private af: AngularFireStorage){}
 

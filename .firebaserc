@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular14-bc278": {
+      "hosting": {
+        "imageupload": [
+          "angular14-bc278"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular14-bc278"
+  }
+}
